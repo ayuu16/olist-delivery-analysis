@@ -19,4 +19,4 @@ Started with 99,441 orders. Kept delivered orders with a valid delivery date: 96
 Delivery reliability directly drives customer satisfaction. The 8% of late orders generate a disproportionate share of 1-star reviews. Olist should prioritize delivery reliability in its fastest-growing period and set estimates it can actually hit.
 
 ## Tools
-SQLite (DB Browser), SQL queries in queries.sql
+SQLite (DB Browser), SQL queries in olist_sql.sql
