@@ -20,7 +20,7 @@ Started with 99,441 orders. Kept delivered orders with a valid delivery date: 96
 - Delivery reliability worsened as Olist grew: ~3-6% late in mid-2017, peaking at 18.6% in April 2018
 
 ## Recommendation
-Delivery reliability directly drives customer satisfaction. The 8% of late orders generate a disproportionate share of 1-star reviews. Olist should prioritize delivery reliability in its fastest-growing period and set estimates it can actually hit.
+- The monthly late-delivery rate was about 3-6% in mid-2017 and 18.6% in April 2018 (7,850 delivered orders). Dec 2016 had 4 delivered orders, Sep 2018 had 56, and Oct 2018 had 3. Their late rates of 50-100% should be interpreted cautiously because the samples are small.
 
 ## Tools
 SQLite (DB Browser), SQL queries in olist_sql.sql
