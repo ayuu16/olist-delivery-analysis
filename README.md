@@ -1,6 +1,7 @@
 # Olist Delivery Performance Analysis
 
 Live dashboard: https://datastudio.google.com/reporting/8d994fc4-373f-4af2-b14f-215e46c463e4
+Dashboard: see the PDF in this repo (Olist_Delivery_Performance.pdf)
 
 SQL analysis of ~100,000 orders from Olist, a Brazilian e-commerce marketplace. Question: how does delivery performance affect customer review scores?
 
