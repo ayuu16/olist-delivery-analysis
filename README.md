@@ -2,7 +2,7 @@
 
 Live dashboard: https://datastudio.google.com/reporting/8d994fc4-373f-4af2-b14f-215e46c463e4
 
-[View the dashboard PDF](Olist_Delivery_Performance (2).pdf)
+[View the dashboard PDF](<Olist_Delivery_Performance (2).pdf>)
 
 SQL analysis of ~100,000 orders from Olist, a Brazilian e-commerce marketplace. Question: how does delivery performance affect customer review scores?
 
